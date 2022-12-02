@@ -14,11 +14,11 @@ Retrieve weather data, create a customer travel destinations map, and create a t
 
 ![Weather Data](Resources/Fig4.png)
 
-### Create Destination Map
+### Destination Map
 
 ![Destination Map](Resources/WeatherPy_vacation_map.png)
 
-### Create Travel Itinerary Map
+### Travel Itinerary Map
 
 ![Itinerary Map](Resources/WeatherPy_travel_map.png)
 ![Itinerary Map](Resources/WeatherPy_travel_map_markers.png)
