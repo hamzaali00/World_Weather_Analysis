@@ -3,6 +3,7 @@
 ## Purpose
 
 Retrieve weather data, create a customer travel destinations map, and create a travel itinerary map.
+Using matplotlib.pyplot and gmaps.
 
 ### Weather Data
 
